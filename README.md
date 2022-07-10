@@ -4,4 +4,4 @@ Website with:
     The list of recipes are: Masterful Mapo Tofu!, Scrumptious Steak!, Pinnacle Pizza!
     This is a simple HTML only recipe website
     Goals: 
-        get comfortable with HTML linking, lists, and git
+        get comfortable with HTML(linking, lists), and git
