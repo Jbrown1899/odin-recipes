@@ -1,0 +1,21 @@
+.header {
+    font-family: Arial, "Times New Roman", Verdana;
+    color: rgb(222,111,111);
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+.indextable {
+    color: black;
+    font-family: Arial, "Times New Roman", Verdana;
+    font-size: 20px;
+}
+
+.recipetable {
+    color: black;
+    font-family: Arial, "Times New Roman", Verdana;
+    font-size: 20px;
+}
