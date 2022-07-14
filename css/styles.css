@@ -1,17 +1,32 @@
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
 .header {
     font-family: Arial, "Times New Roman", Verdana;
     color: rgb(222,111,111);
     text-align: center;
+    border: 2px solid red;
 }
 
 body {
     background-color: bisque;
 }
 
+.container{
+    border: 1px solid green;
+    text-align: center;
+}
+
 .indextable {
     color: black;
     font-family: Arial, "Times New Roman", Verdana;
     font-size: 20px;
+    display: inline-block;
+    border: 2px solid red;
 }
 
 .recipetable {
